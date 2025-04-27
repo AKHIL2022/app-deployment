@@ -1,4 +1,4 @@
-@Library('jenkins-test-template') -
+@Library('jenkins-test-template') _
 
   customPipeline(
     repoUrl: 'https://github.com/AKHIL2022/app-deployment',
